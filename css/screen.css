@@ -220,6 +220,9 @@ a:focus {
     }
 }
 
+.o-row--neutral-x-light {
+    background-color: #F7F7FA;
+}
 /*
     Objects: Container
     ---
@@ -373,7 +376,7 @@ a:focus {
 */
 
 .o-section {
-    overflow: auto;
+    /* overflow: auto; */
 }
 
 .o-section + .o-section {
